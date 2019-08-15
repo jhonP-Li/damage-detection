@@ -1,2 +1,2 @@
 # damage-detection
-detect the damage  on the car
+Detect the damage on a car and calculate the area of it. 
